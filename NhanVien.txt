@@ -1,0 +1,41 @@
+1	Ha Thi Mai 	Anh	nu 	104839770
+2	Vo Thi Hong	Nhung	nu	225715235
+3	Quach Hong	Thu	nu	225246855
+4	Nguyen Thanh	Truc	nu 	278915235
+5	Phan Quoc	Bao	nam	021252637
+6	Bui Minh	Thuan	nam	121425377
+7	Le Trung	Nghia	nam	539520209
+8	Nguyen Truong	An	nam 	121326386
+9	Ta Thi	Thom 	nu	221232567
+10	Truong Hoang 	Luan	nam	213142789
+11	Duong Truc 	Dong 	nam 	131252748
+12	Nguyen Minh	Hoang 	nam 	132526789
+13	Tran Tri	Vien	nam	204565235
+14	Nguyen Phi	Hoa	nam	358208456
+15	Nguyen Hanh Thanh	Dieu	nu	224263770
+16	Quach Hoang	Phuc	nam	131026844
+17	Dam Quang	An	nam	098765432
+18	Hoang Thi My 	Nhu	nu	124508632
+19	Kim Jong	Ae	nam	123098756
+20	Che Cong	Hau	nam	131479053	
+21	Nguyen Quoc	Huy	nam	142748443
+22	Lee Sang	Hyeok	nam	242890142
+23	Bae Jun	Sik	nam	131479053
+24	Lee Jae	Wan	nam	145986302
+25	Kim Jong	Gyun	nam	117678902
+26	Kim Tae	Hee	nu	353719022
+27	Lee Jong	Ae	nu	131591905
+28	Lee	Shin	nam	115290225	
+29	Le Bao	Binh	nam	284750174
+30	Ha Huu	Hung	nam	580890236
+31	Nguyen Ngoc Thuy 	Du	nu	955157289
+32	Quach Hong	Y	nu	759138902
+33	Quach Thao	Vy	nu	527900148
+34	Le Trung	Tinh	nam	246749561
+35	Nguyen Thien	Nhan	nam	271631974
+36	Kim Bi	Rain	nam	491789345
+37	Vuong Nhat	Bac	nam	275098524
+38	Trieu Le	Dinh	nu	224736890
+39	Duong	Duong	nam	724789456
+40	Ngo Diec	Pham	nam	221467890
+41	Loc	Ham	nam	316678032

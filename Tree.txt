@@ -1,0 +1,43 @@
+39	41
+1	Sat	kg	100
+2	Thep	kg	100
+3	Da	tan	100
+4	Gach	tan	100
+5	Cat	tan	100
+6	Kem 	ta	100
+7	Xi mang	bao	100
+8	Bong	kg	0
+9	Vay	cai	0
+10	Ao	cai	0
+11	Gang tay	bo	0
+12	Tat	doi	100
+13	Nhan	chiec	100
+14	Day chuyen	soi	100
+15	Vong tay	cai	100
+16	Balo	cai	100
+17	Sach	cuon	100
+18	Hop giay	cai	100
+19	Banh	thung	500
+20	Tu	cai	100
+21	Bac	tan	100
+22	Day dien	met	100
+23	Cau chi	cai	100
+24 	Bong den	cai	100
+25	May quat	cai	100
+26	Tui xach	cai	100
+27	Nhua	kg	100
+28	May tinh	cai	100
+29	Thung giay	cai	100
+30	Bia	thung	100
+31	Khau trang	hop	100
+32 	Dong ho	cai	100
+33 	Thuoc	thung	100
+34	Nuoc rua tay	thung	100
+35 	Gao	kg	100
+36	Nep	kg	100
+37	May lanh	cai	100
+38	Tu lanh	cai	100
+39	Bep ga	cai	100
+40	Lo nuong	cai	100
+
+	
